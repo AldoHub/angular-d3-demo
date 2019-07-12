@@ -1,1 +1,29 @@
 /* You can add global styles to this file, and also import other style files */
+    app-barchart .bar {
+        fill: steelblue;
+    }
+    
+    app-barchart .bar:hover {
+        fill: brown;
+    }
+    
+    app-barchart .axis--x path {
+        display: none;
+    }
+    app-barchart #chart {
+            height: inherit;
+            width: inherit;
+    }
+    app-barchart .bar {
+        fill: steelblue;
+    }
+    
+    app-barchart .bar:hover {
+        fill: brown;
+    }
+    
+    app-barchart .axis--x path {
+        display: none;
+    }
+
+    
